@@ -9,3 +9,5 @@
 |[High-Throughput Vector Similarity Search in Knowledge Graphs](https://arxiv.org/pdf/2304.01926.pdf)|SIGMOD 2023|Knowledge Graph，Hybrid Query。作者发现workloads 中混合查询的过滤条件具备一定规律性，基于此可以在partition阶段做一定优化。文章设计了了HQI的模型。|
 |Fast, Approximate Vector Queries on Very Large Unstructured Datasets|NSDI 2023|利用单个向量局部几何特性构建error-latency profile for each query。|
 |Tagliabue, J., Greco, C.: (Vector) Space is not the final frontier: Product search as program synthesis. In: SIGIR(2023)||||
+
+
